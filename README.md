@@ -3,8 +3,8 @@
 A responsive NFT preview card component with hover states for the image, title, and creator link.
 
 ## 🔗 Live
-- **Demo:** <your-live-url>
-- **Repo:** <your-repo-url>
+- **Demo:** <https://yaminqabaha7.github.io/-NFT-Preview-Card/>
+- **Repo:** <https://github.com/Yaminqabaha7/-NFT-Preview-Card>
 
 ## 📸 Screenshot
 ![NFT Card Screenshot](./images/Screenshot%202025-09-05%20092251.png)
